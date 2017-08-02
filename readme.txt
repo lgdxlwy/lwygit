@@ -5,5 +5,5 @@ Git tracks changes of files.      lwy
 <<<<<<< HEAD
 Creating a new branch is quick & simple.
 =======
-Creating a new branch is quick and simple.
+Creating a new branch is quick and simple.lwy
 >>>>>>> feature1
